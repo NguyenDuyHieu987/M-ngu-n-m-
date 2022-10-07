@@ -1,0 +1,99 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Hieu
+Data file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+TF: Popular Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Top Header Info : 
+
+Text - No Title - Imported
+
+Advertisement Banner One : 
+
+Image - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Products list - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Products by Rating list - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+Custom HTML - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products list - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products list - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products list - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products list - Products - Imported
+
+Footer Column 1 : 
+
+Text - No Title - Imported
+
+Footer Column 2 : 
+
+Custom HTML - We Accept - Imported
+
+Footer Column 3 : 
+
+Custom HTML - Shop Location - Imported
+
+Footer Column 4 : 
+
+Image - Download App - Imported
+Image - No Title - Imported
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - Products - Widget already exists
+Text - No Title - Widget already exists
+Products list - Products - Widget already exists
+Text - No Title - Widget already exists
+maxmegamenu - No Title - Site does not support widget
+Navigation Menu - No Title - Widget already exists
+Image - Featured Product - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

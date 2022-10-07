@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Top Store Dark were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Hieu
+Data file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-content-import-file_2022-10-06__09-13-37.xml
+Widget file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-06__09-13-37.json
+Customizer file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-06__09-13-37.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products list - Hot Products - Imported
+Tag Cloud - Tag Cloud - Imported
+Image - No Title - Imported
+
+Secondary Sidebar : 
+
+Topstore : Highlight Widget - No Title - Imported
+Top Store : Testimonial Widget - No Title - Imported
+Top Store : Post Slide Widget - Latest News - Imported
+Image - No Title - Imported
+
+Footer Top Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Text - Connect With Us - Imported
+
+Footer Widget Area 2 : 
+
+Text - More About Store - Imported
+
+Footer Widget Area 3 : 
+
+Text - Offline Store - Imported
+
+Footer Widget Area 4 : 
+
+Text - Location - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

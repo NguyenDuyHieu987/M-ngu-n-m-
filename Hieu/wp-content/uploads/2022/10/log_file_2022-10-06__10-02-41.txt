@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Top Store Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Hieu
+Data file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-content-import-file_2022-10-06__10-02-41.xml
+Widget file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-06__10-02-41.json
+Customizer file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-06__10-02-41.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "category-image-3-wooo-slider" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-ad-sidebar-new" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "ab1" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products list - Popular - Widget already exists
+Tag Cloud - Tag Clouds - Widget already exists
+Image - No Title - Imported
+
+Secondary Sidebar : 
+
+Topstore : Highlight Widget - No Title - Imported
+Top Store : About Us widget - Know Us - Imported
+Top Store : Post Slide Widget - Store Updates - Imported
+Gallery - Product Showcase - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Top Store : About Us widget - No Title - Imported
+Text - Connect With Us - Imported
+
+Footer Widget Area 2 : 
+
+Navigation Menu - End Points - Imported
+Text - More About Store - Imported
+
+Footer Widget Area 3 : 
+
+Products list - Products - Imported
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Imported
+Text - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by Price - Imported
+Filter Products by Attribute - Filter by Color - Imported
+Filter Products by Rating - Average Rating - Imported
+
+mmth : Sidebar does not exist in theme (moving widget to Inactive)
+
+Image - Home 1 - Imported to Inactive
+Image - Home 2 - Imported to Inactive
+Image - Home 3 - Imported to Inactive
+Image - No Title - Imported to Inactive
+Image - No Title - Imported to Inactive
+Image - No Title - Imported to Inactive
+Pages - No Title - Imported to Inactive
+Pages - No Title - Imported to Inactive
+Pages - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

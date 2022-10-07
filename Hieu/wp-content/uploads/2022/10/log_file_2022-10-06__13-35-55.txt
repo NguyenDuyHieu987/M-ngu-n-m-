@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: ShoppingCart Plus were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Hieu
+Data file = not defined!
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+

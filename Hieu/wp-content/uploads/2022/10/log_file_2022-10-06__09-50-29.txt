@@ -1,0 +1,122 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Hieu
+Data file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				tool-razor-utility-knife-small-appliances-home-appliances-1157294-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				tool-razor-utility-knife-small-appliances-home-appliances-1157294-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				play-store		" (Media)
+
+
+---Importing widgets---
+shoppingcart_main_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+shoppingcart_popular_widgets - No Title - Site does not support widget
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+shoppingcart_header_info : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+shoppingcart_ad_banner : Sidebar does not exist in theme (moving widget to Inactive)
+
+Image - No Title - Imported to Inactive
+
+shoppingcart_template : Sidebar does not exist in theme (moving widget to Inactive)
+
+shoppingcart_product_grid_column_widget - Best Selling Products - Site does not support widget
+Products list - Products - Imported to Inactive
+shoppingcart_product_grid_column_widget - Featured Products - Site does not support widget
+Products by Rating list - Top rated products - Imported to Inactive
+shoppingcart_product_grid_column_widget - New Arrival Product - Site does not support widget
+
+shoppingcart_contact_page_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Contact Info - Imported to Inactive
+
+shoppingcart_woocommerce_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Product Categories - Product categories - Imported to Inactive
+Active Product Filters - Active filters - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Products list - Products - Widget already exists
+Product Tag Cloud - Product tags - Imported to Inactive
+
+shoppingcart_template_footer_col_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - Featured Products - Imported to Inactive
+
+shoppingcart_template_footer_col_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - On Sale Products - Imported to Inactive
+
+shoppingcart_template_footer_col_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - All Products - Imported to Inactive
+
+shoppingcart_template_footer_col_4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - Products - Imported to Inactive
+
+shoppingcart_footer_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+shoppingcart_footer_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - We Accept - Imported to Inactive
+
+shoppingcart_footer_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Shop Location - Imported to Inactive
+
+shoppingcart_footer_4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Image - Download App - Imported to Inactive
+Image - No Title - Imported to Inactive
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products list - Products - Imported to Inactive
+Text - No Title - Imported to Inactive
+Products list - Products - Imported to Inactive
+Text - No Title - Imported to Inactive
+maxmegamenu - No Title - Site does not support widget
+Navigation Menu - No Title - Imported to Inactive
+Image - Featured Product - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.

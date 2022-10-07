@@ -1,0 +1,75 @@
+
+---Downloaded files---
+The import files for: Big Store Electro were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/Hieu
+Data file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-content-import-file_2022-10-06__09-23-34.xml
+Widget file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-06__09-23-34.json
+Customizer file = D:\XAMPP\htdocs\Phần mềm mã nguồn mở\Hieu/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-06__09-23-34.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "product4.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "product16.png" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "slider1" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Image - No Title - Imported
+Products list - Popular - Imported
+Tag Cloud - Tag Clouds - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Text - Connect With Us - Imported
+Text - Useful Links - Imported
+
+Footer Widget Area 2 : 
+
+Text - More About Store - Imported
+Navigation Menu - End Points - Imported
+
+Footer Widget Area 3 : 
+
+Products list - Products - Imported
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Imported
+Text - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by Price - Imported
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+Filter Products by Rating - Average Rating - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
